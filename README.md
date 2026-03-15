@@ -1,4 +1,3 @@
-```markdown
 # Master's Degree – Giacomo Vincenzo Ceccarelli Grimaldi
 
 I completed my **Master of Science (M.Sc. RWTH)** in Business Administration and Engineering: Electrical Power Engineering at RWTH Aachen University on **08 August 2025** with an overall grade of **2.7 (satisfactory)**.
@@ -30,9 +29,3 @@ git clone https://github.com/iceccarelli/Master_Degree_Vincenzo_Grimaldi_Urkunde
 cd Master_Degree_Vincenzo_Grimaldi_Urkunde
 pip install -r requirements.txt
 python -m pytest tests/
-```
-
-All documents and verification results match the official RWTH Aachen certificates exactly.
-
-Thank you for visiting.
-``` 
